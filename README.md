@@ -14,7 +14,7 @@ GROUP BY, CASE WHEN, Window Functions, CTEs, NTILE
 ## Key Insights
 
 - The average charges by region were Southwest $12,347, Northwest $12,418, Northeast $13,406, Southeast $14,735, with the highest being the **Southeast** region.
-- The average smoker is approximately ***4 times** more expensive than a nonsmoker.
+- The average smoker is approximately **4 times** more expensive than a nonsmoker.
 - People with a BMI higher than 30 or in the "Obese" category **cost 50% more** than normal people
 - People over the age of 45 cost almost **2 times more** than people younger than 31
 
