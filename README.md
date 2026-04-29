@@ -1,4 +1,4 @@
-# Insurance SQL analysis - personal project
+# Insurance PostgresSQL analysis - personal project
 
 ## Source
 Dataset: Medical Cost Personal Datasets — Kaggle
